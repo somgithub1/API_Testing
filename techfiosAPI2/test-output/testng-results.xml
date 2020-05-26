@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5822" started-at="2020-05-25T19:18:03 CDT" finished-at="2020-05-25T19:18:09 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5822" started-at="2020-05-25T19:18:03 CDT" finished-at="2020-05-25T19:18:09 CDT">
+      <class name="techfiosAPI2.APIPost2">
+        <test-method status="PASS" signature="aPI_Post2()[pri:0, instance:techfiosAPI2.APIPost2@2b2948e2]" name="aPI_Post2" duration-ms="5708" started-at="2020-05-25T19:18:03 CDT" finished-at="2020-05-25T19:18:09 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aPI_Post2 -->
+      </class> <!-- techfiosAPI2.APIPost2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
